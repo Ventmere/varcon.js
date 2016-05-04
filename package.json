@@ -1,11 +1,14 @@
 {
   "name": "varcon",
   "version": "1.0.0",
-  "description": "",
+  "description": "VarCon (Variant Conversion Info) database for js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Flux Xu <fluxxu@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
 }

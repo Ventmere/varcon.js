@@ -46,7 +46,7 @@ lines.forEach((line, row) => {
           }
           */
         }
-        variants[t] = spell
+        variants[t] = spell.toLowerCase()
       })
     })
 
